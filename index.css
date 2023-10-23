@@ -1,0 +1,63 @@
+h1{
+justify-content: flex-start;
+
+}
+
+
+
+body {
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    background-image: url("https://mega.ibxk.com.br/2020/07/17/17103356989415.jpg?ims=610x"); 
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .page-title {
+    color: #ff002f;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  body > img {
+    margin: 0 10px;
+  }
+  
+  img {
+    max-height: 300px;
+  }
+  names {
+    color: orange;
+   
+    display: table;
+    float: left;
+    width: 150px;
+    margin: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  
